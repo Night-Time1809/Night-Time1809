@@ -3,17 +3,17 @@
 * **Recently graduated with a Master's Degree in Engineering (Chemical Engineering) from Chulalongkorn University**
 * **Experience in applying coding and deep learning to advanced chemical process simulation and control**
 
-### 🧪 Academic Research
+## 🧪 Academic Research
 *Long Short-Term Memory Network based Model Predictive Control for Reverse Osmosis Process* (Published primary results in The Pure and Applied Chemistry 
 International Conference 2020 proceeding)
 
-### 🌱 My Exciting Personal Projects
+## 🌱 My Exciting Personal Projects
 * [Movie Recommender System](https://github.com/Night-Time1809/movie-recommendation-system)
 * [Stock Price Forecasting](https://github.com/Night-Time1809/set50_stock_price_forecasting) (🛠 In progress)
 * [India Railways Performance Analytics Dashboard](https://github.com/Night-Time1809/india_railways_performance_analytics)
 * COVID-19 Global Vaccine Tracker Dashboard (🛠 In progress)
 
-### 🔧 Skills
+## 🔧 Skills
 *Techniques*
 * Time Series Forecasting
 * Recommendation System
@@ -26,14 +26,14 @@ International Conference 2020 proceeding)
 * SQL (SQLite, PostgreSQL, MySQL)
 * Power BI
 
-### 📫 Socials
+## 📫 Socials
 <p align="left">
   <a href="mailto:chanoknun.wora@gmal.com" target="_blank" rel="noreferrer"><img src="https://github.com/Night-Time1809/Night-Time1809/blob/main/image/gmail2.png" width="41" height="31" /></a>
   <a href="https://www.linkedin.com/in/chanoknun-worathongchai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/Night-Time1809" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
-### 📝 Resume
+## 📝 Resume
 <p align="left">
   <a href="https://github.com/Night-Time1809/Night-Time1809/blob/main/resume/Chanoknun_Worathongchai_resume.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/Night-Time1809/Night-Time1809/blob/main/image/resume.png" width="41" height="35" /></a>
 </p>
